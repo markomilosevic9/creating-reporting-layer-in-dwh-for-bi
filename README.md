@@ -6,7 +6,7 @@ The provided code showcases the design and implementation of an ETL pipeline tha
 
 ## Documentation
 
-A explanation of the key aspects of the solution design, approach and rationale is provided in [Documentation]([https://github.com/markomilosevic9/](https://github.com/markomilosevic9/creating-reporting-layer-in-dwh-for-bi/blob/main/Documentation.pdf)) PDF file.
+A explanation of the key aspects of the solution design, approach and rationale is provided in [Documentation]([https://github.com/markomilosevic9/](https://github.com/markomilosevic9/creating-reporting-layer-in-dwh-for-bi/blob/main/Documentation.pdf]) PDF file.
 
 
 The document includes:
