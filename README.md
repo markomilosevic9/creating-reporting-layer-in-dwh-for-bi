@@ -1,4 +1,4 @@
-# Creating reporting layer in DWH for BI - internship task
+# Creating reporting layer in DWH for BI 
 
 This repository covers the implementation of a required test task for internship.
 
